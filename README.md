@@ -22,5 +22,5 @@ I'm a creative and results-driven Computer Science graduate with a passion for d
 I enjoy turning ideas into meaningful solutions, while bringing a deep sense of ownership and commitment to work environments. I'm always up for connecting and discussing ideas and projects. Feel free to reach out!
 
 ### 🌐 **Socials:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rom-green)
 
-[LinkedIn](https://www.linkedin.com/in/rom-green)
