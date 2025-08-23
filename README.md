@@ -3,7 +3,7 @@
 
 ### 💫 **About Me:**
 
-I'm a creative and results-driven Computer Science graduate with a passion for design and innovation. My journey in tech has been fueled by curiosity and the desire to create impactful solutions.
+I'm a creative and results-driven Computer Science graduate from Bar-Ilan University. My journey in tech has been fueled by curiosity and the desire to create impactful solutions.
 
 ### 👨‍💻 **Skills:**
 
