@@ -7,7 +7,7 @@ I'm a creative and results-driven Computer Science graduate from Bar-Ilan Univer
 
 ### 👨‍💻 **Skills:**
 
-- **Languages:** Python, Java, JavaScript, Rust, C, C++.
+- **Languages:** Python, Java, JavaScript, TypeScript, Rust, C, C++.
 
 - **Tools/Frameworks:** Docker, GitHub, Postman, Jenkins, Selenium, Jira.
 
